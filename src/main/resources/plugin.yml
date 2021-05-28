@@ -1,0 +1,8 @@
+name: Project
+description: Description
+authors: [ TehBrian ]
+website: https://github.com/ItsTehBrian/Project
+
+version: ${version}
+main: xyz.tehbrian.project.Project
+api-version: 1.16
