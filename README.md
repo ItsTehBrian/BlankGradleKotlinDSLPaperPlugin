@@ -1,5 +1,5 @@
 # BlankGradleKotlinDSLPaperPlugin
-A blank Gradle plugin, using the Kotlin DSL, configured for Paper plugin
+A blank Gradle project, using the Kotlin DSL, configured for Paper plugin
 development.
 
 ## Why?
