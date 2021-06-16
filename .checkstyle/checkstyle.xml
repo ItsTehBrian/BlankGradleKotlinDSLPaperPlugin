@@ -136,9 +136,7 @@
         <module name="MethodName"/>
         <module name="PackageName"/>
         <module name="ParameterName"/>
-        <!--<module name="StaticVariableName">-->
-        <!--    <property name="applyToPrivate" value="false"/>-->
-        <!--</module>-->
+        <module name="StaticVariableName"/>
         <module name="TypeName"/>
 
         <!-- Checks for imports                             -->
