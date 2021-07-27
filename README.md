@@ -1,4 +1,13 @@
-# BlankGradleKotlinDSLPaperPlugin
+# ARCHIVED
+I originally created this project to be used as a template of sorts to base
+other projects from. However, I've since then created a CLI app that generates a
+clean project similar to this one and *also* renames all the files according to
+the configuration that you give it. If that sounds interesting, check
+out [projutil](https://github.com/TehBrian/projutil)!
+
+As for this project, it will no longer be updated.
+
+## BlankGradleKotlinDSLPaperPlugin
 A blank Gradle project, using the Kotlin DSL, configured for Paper plugin
 development.
 
